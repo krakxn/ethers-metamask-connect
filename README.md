@@ -1,4 +1,4 @@
-# Metamask connect - HTML, JavaScript, Ethers:
+# MetamaskConnect - HTML, JavaScript, Ethers:
 
 A sample HTML file to show how to connect with Metamask from the front-end. This is a minimalistic example that you can find in the [Metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
 
